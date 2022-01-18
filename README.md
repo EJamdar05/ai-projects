@@ -1,6 +1,6 @@
 # Artificial Intelligence (CS461) Assignments
 
-The following repository is a selection of works done in my AI class at CSUEB. The Java assignments were worked on with partners while the LISP assignments were done solely by me. Names of the partners have been removed for privacy reasons. If you are a student of Hank Stalica's 461 class, please do not take any of this code and claim it as your own. It won't be worth it to cheat in this class and this is your disclaimer. Use this repo if you need help with his assignments: https://github.com/aimacode
+The following repository is a selection of works done in my AI class at CSUEB. The Java assignments were worked on with partners while the LISP assignments were done solely by me. Names of the partners have been removed for privacy reasons. 
 
 ## Overview of the Repo Files
 * Genetic Algorithm Population
